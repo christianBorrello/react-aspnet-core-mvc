@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Repos\\GitHub\\react-aspnet-core-mvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2132A82A-FDD8-4378-87DE-C39D84C43BF2}|reactwithasp.client\\reactwithasp.client.esproj|c:\\repos\\github\\react-aspnet-core-mvc\\reactwithasp.client\\reactwithasp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2132A82A-FDD8-4378-87DE-C39D84C43BF2}|reactwithasp.client\\reactwithasp.client.esproj|solutionrelative:reactwithasp.client\\reactwithasp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 449,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reactwithasp.client",
+              "DocumentMoniker": "C:\\Repos\\GitHub\\react-aspnet-core-mvc\\reactwithasp.client\\reactwithasp.client.esproj",
+              "RelativeDocumentMoniker": "reactwithasp.client\\reactwithasp.client.esproj",
+              "ToolTip": "C:\\Repos\\GitHub\\react-aspnet-core-mvc\\reactwithasp.client\\reactwithasp.client.esproj",
+              "RelativeToolTip": "reactwithasp.client\\reactwithasp.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-04T13:29:31.124Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"

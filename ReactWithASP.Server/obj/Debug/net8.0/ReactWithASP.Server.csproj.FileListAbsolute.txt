@@ -68,3 +68,6 @@ C:\Repos\GitHub\react-aspnet-core-mvc\ReactWithASP.Server\obj\Debug\net8.0\refin
 C:\Repos\GitHub\react-aspnet-core-mvc\ReactWithASP.Server\obj\Debug\net8.0\ReactWithASP.Server.pdb
 C:\Repos\GitHub\react-aspnet-core-mvc\ReactWithASP.Server\obj\Debug\net8.0\ReactWithASP.Server.genruntimeconfig.cache
 C:\Repos\GitHub\react-aspnet-core-mvc\ReactWithASP.Server\obj\Debug\net8.0\ref\ReactWithASP.Server.dll
+C:\Repos\GitHub\react-aspnet-core-mvc\ReactWithASP.Server\obj\Debug\net8.0\ReactWithASP.Server.Properties.Resources.resources
+C:\Repos\GitHub\react-aspnet-core-mvc\ReactWithASP.Server\obj\Debug\net8.0\ReactWithASP.Server.csproj.GenerateResource.cache
+C:\Repos\GitHub\react-aspnet-core-mvc\ReactWithASP.Server\obj\Debug\net8.0\ReactWithASP.Server.sourcelink.json
